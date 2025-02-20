@@ -1,4 +1,4 @@
-# Introdução ao HTML e CSS - Crie sites incríveis e responsivos 🌌
+# Introdução ao HTML e CSS - Crie sites incríveis e responsivos 
 
 ## 📒 Descrição
 Este e-book explora os conceitos introdutórios para ensino do HTML e CSS aos que buscam um conhecimento inicial na área.

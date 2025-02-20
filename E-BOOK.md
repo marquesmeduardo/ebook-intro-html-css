@@ -14,7 +14,7 @@ A montagem final foi feita no Word, por ser uma ferramenta completa e de fácil 
 ## 🚀 Resultados
 O e-book apresenta um conteúdo simples, introdutório e de fácil entendimento, demonstrando que qualquer um pode começar a desenvolver sites e sistemas web.
 
-[LINK PARA O E-BOOK AQUI]()
+[LINK PARA O E-BOOK AQUI](https://github.com/marquesmeduardo/ebook-intro-html-css/blob/main/Introdu%C3%A7%C3%A3o%20ao%20HTML%20e%20CSS%20-%20Crie%20sites%20incr%C3%ADveis%20e%20responsivos.pdf)
 
 ## 💭 Reflexão
 Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
